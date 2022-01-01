@@ -7,14 +7,14 @@
         background: url(/imgs/1x/Asset\ 10.png) no-repeat;
         background-size: contain;
         position: absolute;
-        top: 120px;
+        top: 100px;
     }
     .tan{
         width: 120px; height: 60px;
         background: url(/imgs/1x/Asset\ 11.png) no-repeat;
         background-size: contain;
         position: absolute;
-        top: 270px;
+        top: 250px;
         left: 10px;
         transform: rotate( -90deg );
     }
@@ -23,7 +23,7 @@
         background: url(/imgs/1x/Asset\ 12.png) no-repeat;
         background-size: contain;
         position: absolute;
-        top: 370px;
+        top: 350px;
         left: 80px;
         transform: rotate( -90deg );
     }
@@ -32,7 +32,7 @@
         background: url(/imgs/1x/Asset\ 13.png) no-repeat;
         background-size: contain;
         position: absolute;
-        top: 240px;
+        top: 220px;
         left: 160px;
         transform: rotate( -90deg );
     }
@@ -41,7 +41,7 @@
         background: url(/imgs/1x/Asset\ 9.png) no-repeat;
         background-size: contain;
         position: absolute;
-        top: 480px;
+        top: 460px;
         left: 10px;
         transform: rotate( -90deg );
     }
@@ -50,7 +50,7 @@
         background: url(/imgs/1x/Asset\ 16.png) no-repeat;
         background-size: contain;
         position: absolute;
-        top: 400px;
+        top: 380px;
         left: 50px;
         transform: rotate( -90deg );
     }
@@ -59,7 +59,7 @@
         background: url(/imgs/1x/Asset\ 15.png) no-repeat;
         background-size: contain;
         position: absolute;
-        top: 500px;
+        top: 480px;
         left: 120px;
         transform: rotate( -90deg );
     }
