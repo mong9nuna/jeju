@@ -8,6 +8,7 @@
         background-size: contain;
         position: absolute;
         top: 40px;
+        left: 5px;
     }
     .tan{
         width: 120px; height: 60px;
@@ -15,7 +16,7 @@
         background-size: contain;
         position: absolute;
         top: 190px;
-        left: 10px;
+        left: 15px;
         transform: rotate( -90deg );
     }
     .han{
@@ -24,7 +25,7 @@
         background-size: contain;
         position: absolute;
         top: 290px;
-        left: 80px;
+        left: 85px;
         transform: rotate( -90deg );
     }
     .dong{
@@ -33,7 +34,7 @@
         background-size: contain;
         position: absolute;
         top: 160px;
-        left: 160px;
+        left: 165px;
         transform: rotate( -90deg );
     }
     .mango{
@@ -42,7 +43,7 @@
         background-size: contain;
         position: absolute;
         top: 400px;
-        left: 10px;
+        left: 15px;
         transform: rotate( -90deg );
     }
     .seong{
@@ -51,7 +52,7 @@
         background-size: contain;
         position: absolute;
         top: 320px;
-        left: 50px;
+        left: 55px;
         transform: rotate( -90deg );
     }
     .sashi{
@@ -60,7 +61,7 @@
         background-size: contain;
         position: absolute;
         top: 420px;
-        left: 120px;
+        left: 125px;
         transform: rotate( -90deg );
     }
 
