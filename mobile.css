@@ -1,0 +1,67 @@
+@media only screen and (max-width:500px){
+    body{
+        position: relative;
+    }
+    .jeju{
+        width: 370px; height: 600px;
+        background: url(/imgs/1x/Asset\ 10.png) no-repeat;
+        background-size: contain;
+        position: absolute;
+        top: 120px;
+    }
+    .tan{
+        width: 120px; height: 60px;
+        background: url(/imgs/1x/Asset\ 11.png) no-repeat;
+        background-size: contain;
+        position: absolute;
+        top: 270px;
+        left: 10px;
+        transform: rotate( -90deg );
+    }
+    .han{
+        width: 100px; height: 100px;
+        background: url(/imgs/1x/Asset\ 12.png) no-repeat;
+        background-size: contain;
+        position: absolute;
+        top: 370px;
+        left: 80px;
+        transform: rotate( -90deg );
+    }
+    .dong{
+        width: 100px; height: 100px;
+        background: url(/imgs/1x/Asset\ 13.png) no-repeat;
+        background-size: contain;
+        position: absolute;
+        top: 240px;
+        left: 160px;
+        transform: rotate( -90deg );
+    }
+    .mango{
+        width: 120px; height: 110px;
+        background: url(/imgs/1x/Asset\ 9.png) no-repeat;
+        background-size: contain;
+        position: absolute;
+        top: 480px;
+        left: 10px;
+        transform: rotate( -90deg );
+    }
+    .seong{
+        width: 70px; height: 100px;
+        background: url(/imgs/1x/Asset\ 16.png) no-repeat;
+        background-size: contain;
+        position: absolute;
+        top: 400px;
+        left: 50px;
+        transform: rotate( -90deg );
+    }
+    .sashi{
+        width: 120px; height: 100px;
+        background: url(/imgs/1x/Asset\ 15.png) no-repeat;
+        background-size: contain;
+        position: absolute;
+        top: 500px;
+        left: 120px;
+        transform: rotate( -90deg );
+    }
+
+}
